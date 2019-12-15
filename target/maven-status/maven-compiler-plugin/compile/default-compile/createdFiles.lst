@@ -1,0 +1,10 @@
+br\com\cpf\FichaAnamnesiaApplication.class
+br\com\cpf\controller\form\CpfForm.class
+br\com\cpf\repository\CpfRepository.class
+br\com\cpf\util\ValidaCPF.class
+br\com\cpf\config\validacao\ErroHandleValidacaoHandler.class
+br\com\cpf\controller\dto\CpfDto.class
+br\com\cpf\atualizacao\form\AtualizaCpfForm.class
+br\com\cpf\model\Cpf.class
+br\com\cpf\config\validacao\ErroDeFormularioDto.class
+br\com\cpf\controller\CpfController.class
